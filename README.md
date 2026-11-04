@@ -2,6 +2,8 @@
 
 # Vyvid Haskell Domain
 
+Вивід: домен програмування мовою Haskell
+
 Вивід: домен Haskell
 
 This domain holds notes on how to get exact answers about Haskell code from the compiler's own index, kept so that any project can use them. It has one register.
